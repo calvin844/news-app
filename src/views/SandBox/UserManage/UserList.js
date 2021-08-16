@@ -6,7 +6,7 @@ import {
     EditOutlined,
     ExclamationCircleOutlined
 } from '@ant-design/icons';
-import UserForm from '../../../components/user-manage/UserForm'
+import UserForm from '../../../components/UserManage/UserForm'
 
 
 export default function UserList() {
